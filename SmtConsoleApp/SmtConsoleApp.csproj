@@ -15,4 +15,10 @@
     <ProjectReference Include="..\SmtTest\SmtTest.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="files\20221020022344260-01-1-2-4-12862165+12862219-00-TOP-V3_0-1031.u03">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
